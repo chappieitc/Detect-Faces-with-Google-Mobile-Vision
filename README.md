@@ -1,5 +1,5 @@
 # Android Mobile Vision API Samples
-Uses mobile vision api to detect faces in real time using the front and back of the Android phone
+<p>Uses mobile vision api to detect faces in real time using the front and back of the Android phone</p>
 <b>Getting Started</b>
 <p>The samples build using Gradle in Android Studio. There is no special configuration required.</p>
 <b>Pre-requisites</b>
